@@ -1,0 +1,7 @@
+.user {
+  width: 17vw;
+  height: 60vh;
+  background-color: rgb(226, 226, 155);
+  display: flex;
+  justify-content: center;
+}

@@ -1,0 +1,16 @@
+.user {
+  height: 70vh;
+  width: 40vw;
+  background-color: rgb(233, 165, 233);
+  text-align: center;
+}
+
+.order {
+  height: 60vh;
+  width: 35vw;
+  display: flex;
+  align-items: top;
+  justify-content: space-around;
+  background-color: rgb(189, 124, 189);
+  margin-left: 50px;
+}
